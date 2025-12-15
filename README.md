@@ -6,7 +6,7 @@ The objective is to transform raw sales data into a clear and interpretable dash
 ---
 
 <div align="center">
-  <img src="images/coffeeOrdersData_powerbi_dashboard.png" width="900" alt="Coffee Orders Power BI Dashboard">
+  <img src="coffeeOrdersData_powerbi_dashboard.png" width="900" alt="Coffee Orders Power BI Dashboard">
 </div>
 
 ---
