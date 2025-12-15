@@ -114,7 +114,7 @@ The dataset is used for educational and demonstration purposes only.
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlesheets.svg" height="40" alt="Google Sheets logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" height="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" height="40" alt="Google Sheets" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
