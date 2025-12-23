@@ -95,12 +95,6 @@ from raw data preparation to final visualization, using commonly adopted tools i
 
 It is intended as a portfolio example for **data analyst positions**, particularly in business, healthcare, or applied analytics contexts.
 
----
-
-## 📎 Notes
-
-The dataset is used for educational and demonstration purposes only.
-
 
 ---
 
